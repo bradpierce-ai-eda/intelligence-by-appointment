@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Appointment is a governed grant</title>
+  <desc id="desc">Request evidence precedes a bound eight-commitment grant, and conformance evidence follows execution across a complete appointment lifecycle.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#546579"/></marker>
+    <style>.title{font:700 43px Arial,sans-serif;fill:#172434}.sub{font:400 23px Arial,sans-serif;fill:#546579}.tag{font:700 18px Arial,sans-serif;fill:#2F6FA3;letter-spacing:1px}.head{font:700 24px Arial,sans-serif;fill:#172434}.body{font:400 20px Arial,sans-serif;fill:#33475B}.field{font:400 15px Arial,sans-serif;fill:#33475B}.small{font:400 17px Arial,sans-serif;fill:#546579}.label{font:700 16px Arial,sans-serif;fill:#2F6FA3;letter-spacing:.6px}.micro{font:700 13px Arial,sans-serif;fill:#2F6FA3;letter-spacing:.45px}.panel{fill:#F8FAFC;stroke:#CDD6E0;stroke-width:2}</style>
+  </defs>
+  <rect width="1600" height="900" fill="#fff"/>
+  <text x="90" y="80" class="tag">Q2 · APPOINTMENT</text><text x="90" y="135" class="title">Appointment is a governed grant</text>
+  <text x="90" y="178" class="sub">Request evidence, the bound grant, and conformance evidence remain distinct.</text>
+
+  <g transform="translate(90,220)">
+    <text x="0" y="0" class="label">LIFECYCLE</text>
+    <g transform="translate(0,25)">
+      <g><rect class="panel" x="0" y="0" width="170" height="64" rx="14"/><text x="85" y="40" text-anchor="middle" class="body">Proposal</text></g>
+      <line x1="170" y1="32" x2="205" y2="32" stroke="#546579" stroke-width="3" marker-end="url(#arrow)"/>
+      <g><rect class="panel" x="215" y="0" width="170" height="64" rx="14"/><text x="300" y="40" text-anchor="middle" class="body">Validation</text></g>
+      <line x1="385" y1="32" x2="420" y2="32" stroke="#546579" stroke-width="3" marker-end="url(#arrow)"/>
+      <g><rect class="panel" x="430" y="0" width="170" height="64" rx="14"/><text x="515" y="40" text-anchor="middle" class="body">Authorization</text></g>
+      <line x1="600" y1="32" x2="635" y2="32" stroke="#546579" stroke-width="3" marker-end="url(#arrow)"/>
+      <g><rect x="645" y="0" width="170" height="64" rx="14" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="2"/><text x="730" y="40" text-anchor="middle" class="body">Binding</text></g>
+      <line x1="815" y1="32" x2="850" y2="32" stroke="#546579" stroke-width="3" marker-end="url(#arrow)"/>
+      <g><rect x="860" y="0" width="170" height="64" rx="14" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="2"/><text x="945" y="40" text-anchor="middle" class="body">Execution</text></g>
+      <line x1="1030" y1="32" x2="1065" y2="32" stroke="#546579" stroke-width="3" marker-end="url(#arrow)"/>
+      <g><rect class="panel" x="1075" y="0" width="170" height="64" rx="14"/><text x="1160" y="40" text-anchor="middle" class="body">Observation</text></g>
+      <line x1="1245" y1="32" x2="1280" y2="32" stroke="#546579" stroke-width="3" marker-end="url(#arrow)"/>
+      <g><rect x="1290" y="0" width="130" height="64" rx="14" fill="#F3F0F8" stroke="#7057A3" stroke-width="2"/><text x="1355" y="29" text-anchor="middle" class="small">Complete</text><text x="1355" y="50" text-anchor="middle" class="small">or revoke</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(90,350)">
+    <rect x="0" y="0" width="900" height="400" rx="24" fill="#F0F7FA" stroke="#2F6FA3" stroke-width="3"/>
+    <text x="34" y="50" class="label">BOUND EIGHT-COMMITMENT GRANT</text>
+    <text x="34" y="91" class="head">High-resolution thermal sensing + local defect model</text>
+    <line x1="34" y1="112" x2="866" y2="112" stroke="#B9CAD8" stroke-width="2"/>
+    <g transform="translate(34,140)">
+      <text x="0" y="0" class="label">CAPABILITY</text><text x="190" y="0" class="field">thermal + defect model</text>
+      <text x="0" y="46" class="label">PLACEMENT</text><text x="190" y="46" class="field">onboard accelerator</text>
+      <text x="0" y="84" class="micro">TERM AND DECISION</text><text x="0" y="101" class="micro">DEADLINE</text><text x="190" y="92" class="field">result 220 ms · expiry 240 ms</text>
+      <text x="0" y="138" class="micro">RESOURCE ENVELOPE</text><text x="190" y="138" class="field">18 J · 256 MiB · 40 MB/s</text>
+      <text x="490" y="0" class="micro">PROTECTED RESERVE</text><text x="675" y="0" class="field">35% compute + sentinel</text>
+      <text x="490" y="46" class="micro">STATE OBLIGATIONS</text><text x="675" y="46" class="field">fresh track + pose; destroy</text>
+      <text x="490" y="92" class="label">AUTHORITY</text><text x="675" y="92" class="field">sensor mode; no contact</text>
+      <text x="490" y="138" class="micro">EXIT OBLIGATIONS</text><text x="675" y="138" class="field">complete · revoke · fallback</text>
+    </g>
+    <rect x="34" y="318" width="832" height="52" rx="12" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/>
+    <text x="450" y="351" text-anchor="middle" class="body">Trigger evidence precedes the grant; compliance evidence follows execution</text>
+  </g>
+
+  <g transform="translate(1030,350)">
+    <text x="0" y="0" class="label">FIVE CAPABILITY TARGETS</text>
+    <g transform="translate(0,30)">
+      <rect class="panel" x="0" y="0" width="480" height="58" rx="14"/><circle cx="32" cy="29" r="13" fill="#2F6FA3"/><text x="60" y="36" class="body">Sensing</text>
+      <rect class="panel" x="0" y="72" width="480" height="58" rx="14"/><circle cx="32" cy="101" r="13" fill="#4BA3C7"/><text x="60" y="108" class="body">Computation</text>
+      <rect class="panel" x="0" y="144" width="480" height="58" rx="14"/><circle cx="32" cy="173" r="13" fill="#7057A3"/><text x="60" y="180" class="body">State</text>
+      <rect class="panel" x="0" y="216" width="480" height="58" rx="14"/><circle cx="32" cy="245" r="13" fill="#D99A2B"/><text x="60" y="252" class="body">Information-seeking action</text>
+      <rect class="panel" x="0" y="288" width="480" height="58" rx="14"/><circle cx="32" cy="317" r="13" fill="#C64B4B"/><text x="60" y="324" class="body">Authority</text>
+    </g>
+  </g>
+  <rect x="90" y="790" width="1420" height="52" rx="14" fill="#F4F7FA"/><text x="800" y="823" text-anchor="middle" class="body">Why requested · what granted · how compliance is demonstrated</text>
+</svg>

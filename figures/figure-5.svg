@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">From appointments to an engineering field</title>
+  <desc id="desc">One completed inspection-robot appointment leaves a complete trace. Repeated deployments and matched comparisons reveal recurring gains, bottlenecks, obligations, and failure envelopes. That evidence determines whether to improve software, justify durable mechanisms, or keep a simpler design.</desc>
+  <defs>
+    <style>
+      .title{font:700 43px Arial,sans-serif;fill:#172434}
+      .sub{font:400 23px Arial,sans-serif;fill:#546579}
+      .tag{font:700 18px Arial,sans-serif;fill:#2F6FA3;letter-spacing:1px}
+      .head{font:700 23px Arial,sans-serif;fill:#172434}
+      .body{font:400 18px Arial,sans-serif;fill:#33475B}
+      .small{font:400 16px Arial,sans-serif;fill:#546579}
+      .tiny{font:400 14px Arial,sans-serif;fill:#546579}
+      .label{font:700 15px Arial,sans-serif;fill:#2F6FA3;letter-spacing:.5px}
+      .field{font:700 13px Arial,sans-serif;fill:#2F6FA3;letter-spacing:.5px}
+      .panel{fill:#F8FAFC;stroke:#CDD6E0;stroke-width:2}
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#536A80"/>
+    </marker>
+    <marker id="arrowPurple" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#7359A6"/>
+    </marker>
+  </defs>
+
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="90" y="80" class="tag">Q5 · FIELD-BUILDING</text>
+  <text x="90" y="135" class="title">From appointments to an engineering field</text>
+  <text x="90" y="178" class="sub">Deployment evidence determines what becomes durable—and what remains unnecessary.</text>
+
+  <!-- Panel A: one appointment -->
+  <g transform="translate(90,225)">
+    <rect class="panel" x="0" y="0" width="340" height="500" rx="24"/>
+    <text x="28" y="42" class="label">PANEL A · ONE APPOINTMENT ENDS</text>
+    <text x="28" y="82" class="head">A complete trace remains</text>
+
+    <rect x="28" y="106" width="284" height="242" rx="18" fill="#F0F7FA" stroke="#2F6FA3" stroke-width="2.5"/>
+    <text x="48" y="136" class="label">SAME ROBOT APPOINTMENT</text>
+    <line x1="48" y1="150" x2="292" y2="150" stroke="#CDD6E0" stroke-width="1.5"/>
+
+    <text x="48" y="178" class="field">WHY</text><text x="132" y="178" class="tiny">repeated thermal anomaly</text>
+    <text x="48" y="208" class="field">MAPPING</text><text x="132" y="208" class="tiny">onboard sensor + model</text>
+    <text x="48" y="238" class="field">COST</text><text x="132" y="238" class="tiny">240 ms · 18 J</text>
+    <text x="48" y="268" class="field">DECISION</text><text x="132" y="268" class="tiny">retain frame; request review</text>
+    <text x="48" y="298" class="field">RESERVE</text><text x="132" y="298" class="tiny">sentinel + 35% compute</text>
+    <text x="48" y="328" class="field">EXIT</text><text x="132" y="328" class="tiny">release + destroy state</text>
+
+    <text x="28" y="384" class="label">AFTER EXIT</text>
+    <rect x="28" y="400" width="284" height="28" rx="9" fill="#E8F2F8" stroke="#2F6FA3" stroke-width="1.5"/>
+    <circle cx="45" cy="414" r="6" fill="#2F6FA3"/><text x="60" y="420" class="small">Sentinel still watching</text>
+    <rect x="28" y="437" width="284" height="28" rx="9" fill="#E6F3EF" stroke="#2A8C82" stroke-width="1.5"/>
+    <circle cx="45" cy="451" r="6" fill="#2A8C82"/><text x="60" y="457" class="small">Reserve restored</text>
+    <rect x="28" y="474" width="284" height="28" rx="9" fill="#F0ECF8" stroke="#7359A6" stroke-width="1.5"/>
+    <circle cx="45" cy="488" r="6" fill="#7359A6"/><text x="60" y="494" class="small">Retained evidence named</text>
+  </g>
+
+  <line x1="438" y1="475" x2="463" y2="475" stroke="#536A80" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Panel B: repeated deployments -->
+  <g transform="translate(470,225)">
+    <rect class="panel" x="0" y="0" width="550" height="500" rx="24"/>
+    <text x="28" y="42" class="label">PANEL B · REPEATED DEPLOYMENTS</text>
+    <text x="28" y="82" class="head">Many traces reveal recurring structure</text>
+
+    <g transform="translate(28,105)">
+      <rect x="0" y="0" width="494" height="42" rx="11" fill="#FFFFFF" stroke="#CDD6E0" stroke-width="1.5"/>
+      <text x="16" y="27" class="small">Robot · site A</text>
+      <rect x="175" y="10" width="60" height="22" rx="7" fill="#E8F2F8"/><rect x="243" y="10" width="60" height="22" rx="7" fill="#E6F3EF"/><rect x="311" y="10" width="60" height="22" rx="7" fill="#F0ECF8"/><rect x="379" y="10" width="97" height="22" rx="7" fill="#FFF4DD"/>
+
+      <rect x="0" y="51" width="494" height="42" rx="11" fill="#FFFFFF" stroke="#CDD6E0" stroke-width="1.5"/>
+      <text x="16" y="78" class="small">Robot · site B</text>
+      <rect x="175" y="61" width="60" height="22" rx="7" fill="#E8F2F8"/><rect x="243" y="61" width="60" height="22" rx="7" fill="#FCECEC"/><rect x="311" y="61" width="60" height="22" rx="7" fill="#F0ECF8"/><rect x="379" y="61" width="97" height="22" rx="7" fill="#E6F3EF"/>
+
+      <rect x="0" y="102" width="494" height="42" rx="11" fill="#FFFFFF" stroke="#CDD6E0" stroke-width="1.5"/>
+      <text x="16" y="129" class="small">Edge–cloud service</text>
+      <rect x="175" y="112" width="60" height="22" rx="7" fill="#E8F2F8"/><rect x="243" y="112" width="60" height="22" rx="7" fill="#E6F3EF"/><rect x="311" y="112" width="60" height="22" rx="7" fill="#FFF4DD"/><rect x="379" y="112" width="97" height="22" rx="7" fill="#FCECEC"/>
+
+      <rect x="0" y="153" width="494" height="42" rx="11" fill="#FFFFFF" stroke="#CDD6E0" stroke-width="1.5"/>
+      <text x="16" y="180" class="small">Field trial</text>
+      <rect x="175" y="163" width="60" height="22" rx="7" fill="#E8F2F8"/><rect x="243" y="163" width="60" height="22" rx="7" fill="#E6F3EF"/><rect x="311" y="163" width="60" height="22" rx="7" fill="#F0ECF8"/><rect x="379" y="163" width="97" height="22" rx="7" fill="#FCECEC"/>
+    </g>
+
+    <rect x="28" y="316" width="494" height="58" rx="14" fill="#172434"/>
+    <text x="275" y="342" text-anchor="middle" class="label" style="fill:#FFFFFF">MATCHED EVIDENCE</text>
+    <text x="275" y="363" text-anchor="middle" class="tiny" style="fill:#DDE6EE">same demand · matched constraints · complete accounting</text>
+
+    <g transform="translate(28,392)">
+      <rect x="0" y="0" width="237" height="44" rx="12" fill="#E6F3EF" stroke="#2A8C82" stroke-width="1.5"/>
+      <text x="16" y="20" class="small" style="font-weight:700;fill:#172434">Recurring gains</text><text x="16" y="37" class="tiny">survive matched comparison</text>
+      <rect x="257" y="0" width="237" height="44" rx="12" fill="#FFF4DD" stroke="#D99A2B" stroke-width="1.5"/>
+      <text x="273" y="20" class="small" style="font-weight:700;fill:#172434">Recurring bottlenecks</text><text x="273" y="37" class="tiny">repeated costs dominate</text>
+      <rect x="0" y="54" width="237" height="44" rx="12" fill="#F0ECF8" stroke="#7359A6" stroke-width="1.5"/>
+      <text x="16" y="74" class="small" style="font-weight:700;fill:#172434">Recurring obligations</text><text x="16" y="91" class="tiny">stable reserve + authority</text>
+      <rect x="257" y="54" width="237" height="44" rx="12" fill="#FCECEC" stroke="#C64B4B" stroke-width="1.5"/>
+      <text x="273" y="74" class="small" style="font-weight:700;fill:#172434">Failure envelopes</text><text x="273" y="91" class="tiny">where the simpler design wins</text>
+    </g>
+  </g>
+
+  <line x1="1028" y1="475" x2="1053" y2="475" stroke="#536A80" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Panel C: dispositions -->
+  <g transform="translate(1060,225)">
+    <rect class="panel" x="0" y="0" width="450" height="500" rx="24"/>
+    <text x="28" y="42" class="label">PANEL C · THREE DISPOSITIONS</text>
+    <text x="28" y="78" class="head">Evidence decides what</text>
+    <text x="28" y="105" class="head">becomes durable</text>
+
+    <rect x="28" y="122" width="394" height="90" rx="17" fill="#E8F2F8" stroke="#2F6FA3" stroke-width="2"/>
+    <text x="50" y="153" class="label">IMPROVE SOFTWARE FIRST</text>
+    <text x="50" y="181" class="body">policies · compiler mappings</text>
+    <text x="50" y="202" class="small">assurance · benchmarks · runtimes</text>
+
+    <rect x="28" y="226" width="394" height="132" rx="17" fill="#FFF4DD" stroke="#D99A2B" stroke-width="2"/>
+    <text x="50" y="257" class="label" style="fill:#A86E08">JUSTIFY DURABLE MECHANISMS</text>
+    <text x="50" y="285" class="body">interfaces · sensors · reservation</text>
+    <text x="50" y="310" class="body">preemption · state transfer</text>
+    <text x="50" y="335" class="body">authority isolation · hardware</text>
+    <rect x="50" y="341" width="254" height="22" rx="7" fill="#FFFFFF" opacity=".8"/>
+    <text x="177" y="357" text-anchor="middle" class="tiny" style="fill:#8A5C08">only where recurrence warrants it</text>
+
+    <rect x="28" y="372" width="394" height="84" rx="17" fill="#FCECEC" stroke="#C64B4B" stroke-width="2"/>
+    <text x="50" y="402" class="label" style="fill:#B23D3D">DO NOT ADD THE MACHINERY</text>
+    <text x="50" y="430" class="body">uniform provision or simpler</text>
+    <text x="50" y="451" class="small">orchestration remains the better design</text>
+
+    <rect x="102" y="468" width="320" height="26" rx="9" fill="#F0ECF8" stroke="#7359A6" stroke-width="1.5"/>
+    <line x1="88" y1="481" x2="45" y2="481" stroke="#7359A6" stroke-width="2.5" marker-end="url(#arrowPurple)"/>
+    <text x="262" y="487" text-anchor="middle" class="small" style="fill:#5F478E">Field trials produce the next traces</text>
+  </g>
+
+  <!-- Bottom claim -->
+  <g transform="translate(90,760)">
+    <rect x="0" y="0" width="1420" height="82" rx="18" fill="#F4F7FA" stroke="#CDD6E0" stroke-width="2"/>
+    <text x="710" y="34" text-anchor="middle" class="head">Build the least permanent machinery that recurring evidence can justify.</text>
+    <text x="710" y="63" text-anchor="middle" class="small">Traces may improve software, justify durable support, or show that appointment remains unnecessary.</text>
+  </g>
+</svg>

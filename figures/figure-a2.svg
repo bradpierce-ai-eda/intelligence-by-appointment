@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Design downward; earn legitimacy upward</title>
+  <desc id="desc">A backward-development staircase descends from universal infrastructure through exchange, composition, portability, and repeated demonstrations to one executable appointment. Ten near-term projects form the launchpad. Evidence from traces, transfers, composition, substitution, and repeated demand climbs back upward, while negative results narrow or stop the program.</desc>
+  <defs>
+    <style>
+      .title{font:700 43px Arial,sans-serif;fill:#172434}.sub{font:400 23px Arial,sans-serif;fill:#546579}
+      .tag{font:700 18px Arial,sans-serif;fill:#2F6FA3;letter-spacing:1px}.head{font:700 22px Arial,sans-serif;fill:#172434}
+      .body{font:400 17px Arial,sans-serif;fill:#33475B}.small{font:400 15px Arial,sans-serif;fill:#546579}
+      .tiny{font:400 13px Arial,sans-serif;fill:#546579}.label{font:700 14px Arial,sans-serif;fill:#2F6FA3;letter-spacing:.5px}
+      .panel{fill:#F8FAFC;stroke:#CDD6E0;stroke-width:2}
+    </style>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M0,0 L11,5.5 L0,11 Z" fill="#536A80"/></marker>
+    <marker id="arrowBlue" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2F6FA3"/></marker>
+    <marker id="arrowTeal" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2A8C82"/></marker>
+  </defs>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="90" y="80" class="tag">APPENDIX FIGURE A2 · BACKWARD DEVELOPMENT</text>
+  <text x="90" y="135" class="title">Design downward; earn legitimacy upward</text>
+  <text x="90" y="178" class="sub">The universal control plane is a sequence of testable dependencies, not one leap.</text>
+
+  <text x="90" y="221" class="label">DESIGN BACKWARD</text>
+  <line x1="112" y1="238" x2="112" y2="625" stroke="#2F6FA3" stroke-width="5" marker-end="url(#arrowBlue)"/>
+
+  <g transform="translate(145,225)">
+    <rect x="0" y="0" width="1040" height="62" rx="16" fill="#172434"/>
+    <circle cx="31" cy="31" r="18" fill="#D99A2B"/><text x="31" y="37" text-anchor="middle" style="font:700 16px Arial,sans-serif;fill:#FFFFFF">6</text>
+    <text x="62" y="27" style="font:700 21px Arial,sans-serif;fill:#FFFFFF">Appointment as infrastructure</text><text x="62" y="49" style="font:400 14px Arial,sans-serif;fill:#DCE6EF">minimal kernel · typed profiles · testable promises · invariant-boundary certification</text>
+
+    <rect x="70" y="71" width="970" height="62" rx="16" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="2"/>
+    <circle cx="101" cy="102" r="18" fill="#2F6FA3"/><text x="101" y="108" text-anchor="middle" style="font:700 16px Arial,sans-serif;fill:#FFFFFF">5</text>
+    <text x="132" y="98" class="head">Exchange among unlike capabilities</text><text x="132" y="120" class="small">local conversion relationships · multidimensional frontiers · explicit policy</text>
+
+    <rect x="140" y="142" width="900" height="62" rx="16" fill="#F3F0F8" stroke="#7057A3" stroke-width="2"/>
+    <circle cx="171" cy="173" r="18" fill="#7057A3"/><text x="171" y="179" text-anchor="middle" style="font:700 16px Arial,sans-serif;fill:#FFFFFF">4</text>
+    <text x="202" y="169" class="head">Composition, delegation, and competition</text><text x="202" y="191" class="small">hierarchical budgets · monotonic authority · cascading revocation · protected reserve</text>
+
+    <rect x="210" y="213" width="830" height="62" rx="16" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/>
+    <circle cx="241" cy="244" r="18" fill="#2A8C82"/><text x="241" y="250" text-anchor="middle" style="font:700 16px Arial,sans-serif;fill:#FFFFFF">3</text>
+    <text x="272" y="240" class="head">Portable software stack</text><text x="272" y="262" class="small">IR · capability descriptors · compiler · runtime · trace and replay semantics</text>
+
+    <rect x="280" y="284" width="760" height="62" rx="16" fill="#FFF4DD" stroke="#D99A2B" stroke-width="2"/>
+    <circle cx="311" cy="315" r="18" fill="#D99A2B"/><text x="311" y="321" text-anchor="middle" style="font:700 16px Arial,sans-serif;fill:#FFFFFF">2</text>
+    <text x="342" y="311" class="head">Repeated domain demonstrations</text><text x="342" y="333" class="small">matched comparisons · transfer attempts · visible win and loss regimes</text>
+
+    <rect x="350" y="355" width="690" height="62" rx="16" fill="#F8FAFC" stroke="#2F6FA3" stroke-width="3"/>
+    <circle cx="381" cy="386" r="18" fill="#2F6FA3"/><text x="381" y="392" text-anchor="middle" style="font:700 16px Arial,sans-serif;fill:#FFFFFF">1</text>
+    <text x="412" y="382" class="head">One executable appointment</text><text x="412" y="404" class="small">admit · enact · bound · revoke · clean up · explain</text>
+  </g>
+
+  <g transform="translate(1230,225)">
+    <text x="72" y="0" class="label">EVIDENCE EARNS SCALE</text>
+    <line x1="230" y1="400" x2="230" y2="28" stroke="#2A8C82" stroke-width="5" marker-end="url(#arrowTeal)"/>
+    <rect x="0" y="333" width="196" height="45" rx="12" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/><text x="98" y="361" text-anchor="middle" class="small">recurring fields + costs</text>
+    <rect x="0" y="265" width="196" height="45" rx="12" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/><text x="98" y="293" text-anchor="middle" class="small">cross-domain transfer</text>
+    <rect x="0" y="197" width="196" height="45" rx="12" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/><text x="98" y="225" text-anchor="middle" class="small">composition evidence</text>
+    <rect x="0" y="129" width="196" height="45" rx="12" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/><text x="98" y="157" text-anchor="middle" class="small">substitution evidence</text>
+    <rect x="0" y="61" width="196" height="45" rx="12" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/><text x="98" y="89" text-anchor="middle" class="small">repeated demand</text>
+  </g>
+
+  <g transform="translate(90,675)">
+    <text x="0" y="0" class="label">TEN PROJECTS THAT CAN BEGIN NOW</text>
+    <g transform="translate(0,18)">
+      <rect x="0" y="0" width="265" height="60" rx="13" fill="#F3F0F8" stroke="#7057A3" stroke-width="2"/><text x="14" y="23" class="label">CONTRACT</text><text x="14" y="46" class="body">1 · Record + validator</text>
+      <rect x="282" y="0" width="265" height="60" rx="13" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="2"/><text x="296" y="23" class="label">EXECUTION</text><text x="296" y="46" class="body">2 · Fixed-policy runtime</text>
+      <rect x="564" y="0" width="265" height="60" rx="13" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/><text x="578" y="23" class="label">RESERVE</text><text x="578" y="46" class="body">3 · Compound-event test</text>
+      <rect x="846" y="0" width="265" height="60" rx="13" fill="#F3F0F8" stroke="#7057A3" stroke-width="2"/><text x="860" y="23" class="label">STATE</text><text x="860" y="46" class="body">4 · Lifecycle benchmark</text>
+      <rect x="1128" y="0" width="292" height="60" rx="13" fill="#FCECEC" stroke="#C64B4B" stroke-width="2"/><text x="1142" y="23" class="label">AUTHORITY</text><text x="1142" y="46" class="body">5 · Monitor + revocation</text>
+
+      <rect x="0" y="74" width="265" height="60" rx="13" fill="#FFF4DD" stroke="#D99A2B" stroke-width="2"/><text x="14" y="97" class="label">CHOICE</text><text x="14" y="120" class="body">6 · Substitution benchmark</text>
+      <rect x="282" y="74" width="265" height="60" rx="13" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="2"/><text x="296" y="97" class="label">PORTABILITY</text><text x="296" y="120" class="body">7 · IR + compiler</text>
+      <rect x="564" y="74" width="265" height="60" rx="13" fill="#FFF4DD" stroke="#D99A2B" stroke-width="2"/><text x="578" y="97" class="label">EVIDENCE</text><text x="578" y="120" class="body">8 · Trace + replay</text>
+      <rect x="846" y="74" width="265" height="60" rx="13" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/><text x="860" y="97" class="label">TRANSFER</text><text x="860" y="120" class="body">9 · Cross-domain study</text>
+      <rect x="1128" y="74" width="292" height="60" rx="13" fill="#F8FAFC" stroke="#CDD6E0" stroke-width="2"/><text x="1142" y="97" class="label">SUBSTRATE</text><text x="1142" y="120" class="body">10 · Hardware profiling</text>
+    </g>
+  </g>
+
+  <rect x="90" y="842" width="1420" height="34" rx="10" fill="#FCECEC" stroke="#C64B4B" stroke-width="1.5"/>
+  <text x="800" y="864" text-anchor="middle" class="small" style="fill:#8E3535">Negative results narrow the kernel, redirect a layer, or stop the climb.</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Parallel coverage becomes governed commitment</title>
+  <desc id="desc">Live hypotheses remain in parallel while one appointment crosses an admission boundary and is enforced by a five-part runtime that preserves reserve and emits a trace.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#546579"/></marker>
+    <style>.title{font:700 43px Arial,sans-serif;fill:#172434}.sub{font:400 23px Arial,sans-serif;fill:#546579}.tag{font:700 18px Arial,sans-serif;fill:#2F6FA3;letter-spacing:1px}.head{font:700 23px Arial,sans-serif;fill:#172434}.body{font:400 19px Arial,sans-serif;fill:#33475B}.small{font:400 16px Arial,sans-serif;fill:#546579}.label{font:700 16px Arial,sans-serif;fill:#2F6FA3;letter-spacing:.6px}.panel{fill:#F8FAFC;stroke:#CDD6E0;stroke-width:2}</style>
+  </defs>
+  <rect width="1600" height="900" fill="#fff"/>
+  <text x="90" y="80" class="tag">Q3 · COMMITMENT MACHINERY</text><text x="90" y="135" class="title">Parallel coverage becomes governed commitment</text>
+  <text x="90" y="178" class="sub">Many possibilities may remain live; only an admitted grant becomes consequential.</text>
+
+  <g transform="translate(90,230)">
+    <rect class="panel" x="0" y="0" width="330" height="470" rx="22"/>
+    <text x="28" y="45" class="label">PARALLEL COVERAGE</text><text x="28" y="82" class="head">Sentinel fabric</text>
+    <g transform="translate(28,112)">
+      <rect x="0" y="0" width="274" height="58" rx="14" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="2"/><text x="137" y="36" text-anchor="middle" class="body">weak thermal anomaly</text>
+      <rect class="panel" x="0" y="78" width="274" height="58" rx="14"/><text x="137" y="114" text-anchor="middle" class="body">surface vibration</text>
+      <rect class="panel" x="0" y="156" width="274" height="58" rx="14"/><text x="137" y="192" text-anchor="middle" class="body">second-event watch</text>
+      <rect class="panel" x="0" y="234" width="274" height="58" rx="14"/><text x="137" y="270" text-anchor="middle" class="body">deadline watch</text>
+    </g>
+    <text x="28" y="434" class="small">Coverage stays live even after</text><text x="28" y="458" class="small">one proposal is selected.</text>
+
+    <line x1="330" y1="210" x2="392" y2="210" stroke="#546579" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <rect class="panel" x="410" y="0" width="390" height="470" rx="22"/>
+    <text x="438" y="45" class="label">PORTABLE STACK</text>
+    <g transform="translate(438,78)">
+      <rect x="0" y="0" width="334" height="82" rx="14" fill="#F3F0F8" stroke="#7057A3" stroke-width="2"/>
+      <text x="167" y="24" text-anchor="middle" class="small">Proposal context</text><text x="167" y="47" text-anchor="middle" class="body">Eight-commitment grant</text><text x="167" y="68" text-anchor="middle" class="small">Conformance metadata</text>
+      <line x1="167" y1="82" x2="167" y2="108" stroke="#546579" stroke-width="3" marker-end="url(#arrow)"/>
+      <rect class="panel" x="0" y="116" width="334" height="62" rx="14"/><text x="167" y="154" text-anchor="middle" class="body">Compiler + policy mapping</text>
+      <line x1="167" y1="178" x2="167" y2="204" stroke="#546579" stroke-width="3" marker-end="url(#arrow)"/>
+      <rect x="0" y="212" width="334" height="88" rx="14" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="3"/>
+      <text x="167" y="246" text-anchor="middle" class="label">COMMITMENT BOUNDARY</text><text x="167" y="276" text-anchor="middle" class="head">Bind eight commitments</text>
+      <line x1="167" y1="300" x2="167" y2="326" stroke="#546579" stroke-width="3" marker-end="url(#arrow)"/>
+      <rect class="panel" x="0" y="330" width="334" height="58" rx="14"/><text x="167" y="366" text-anchor="middle" class="body">Conformance trace</text>
+    </g>
+
+    <line x1="800" y1="210" x2="862" y2="210" stroke="#546579" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <rect x="880" y="0" width="540" height="470" rx="22" fill="#F0F7FA" stroke="#2F6FA3" stroke-width="3"/>
+    <text x="908" y="45" class="label">FIVE-PART RUNTIME</text>
+    <g transform="translate(908,78)">
+      <rect x="0" y="0" width="228" height="66" rx="14" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="2"/><text x="114" y="28" text-anchor="middle" class="body">Appointment</text><text x="114" y="51" text-anchor="middle" class="body">control plane</text>
+      <rect x="256" y="0" width="228" height="66" rx="14" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="2"/><text x="370" y="40" text-anchor="middle" class="body">Capability fabric</text>
+      <rect x="0" y="92" width="228" height="66" rx="14" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/><text x="114" y="132" text-anchor="middle" class="body">Protected reserve</text>
+      <rect x="256" y="92" width="228" height="66" rx="14" fill="#F3F0F8" stroke="#7057A3" stroke-width="2"/><text x="370" y="132" text-anchor="middle" class="body">Invariant layer</text>
+      <rect x="0" y="184" width="484" height="66" rx="14" fill="#F8FAFC" stroke="#CDD6E0" stroke-width="2"/><text x="242" y="224" text-anchor="middle" class="body">Sentinel fabric remains active underneath</text>
+      <line x1="242" y1="250" x2="242" y2="284" stroke="#546579" stroke-width="3" marker-end="url(#arrow)"/>
+      <rect x="0" y="292" width="484" height="70" rx="14" fill="#FFF4DD" stroke="#D99A2B" stroke-width="2"/><text x="242" y="321" text-anchor="middle" class="label">CONFORMANCE TRACE</text><text x="242" y="348" text-anchor="middle" class="small">grant · mapping · cost · decision · reserve · exit</text>
+    </g>
+  </g>
+
+  <g transform="translate(90,730)">
+    <rect x="0" y="0" width="1420" height="112" rx="20" fill="#F4F7FA"/>
+    <text x="32" y="38" class="label">SLOWER LEARNING AND CO-DESIGN LOOP</text>
+    <text x="32" y="73" class="body">Traces improve later triggers, cost models, compiler mappings, assurance, interfaces, and eventually substrates.</text>
+    <path d="M1120 76 C1240 102, 1360 98, 1380 32" fill="none" stroke="#7057A3" stroke-width="3" marker-end="url(#arrow)"/>
+  </g>
+</svg>

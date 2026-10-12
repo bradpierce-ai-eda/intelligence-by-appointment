@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Intelligence is a placement decision</title>
+  <desc id="desc">Four architectures face the same inspection robot anomaly and second event while preserving different amounts of coverage and reserve.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#546579"/></marker>
+    <style>
+      .title{font:700 43px Arial,sans-serif;fill:#172434}.sub{font:400 23px Arial,sans-serif;fill:#546579}
+      .tag{font:700 18px Arial,sans-serif;fill:#2F6FA3;letter-spacing:1px}.head{font:700 25px Arial,sans-serif;fill:#172434}
+      .body{font:400 20px Arial,sans-serif;fill:#33475B}.small{font:400 17px Arial,sans-serif;fill:#546579}.tiny{font:400 14px Arial,sans-serif}.white{fill:#fff}
+      .panel{fill:#F8FAFC;stroke:#CDD6E0;stroke-width:2}.active{fill:#E7F2F8;stroke:#2F6FA3;stroke-width:2}
+      .reserve{fill:#E6F3EF;stroke:#2A8C82;stroke-width:2}.risk{fill:#FCECEC;stroke:#C64B4B;stroke-width:2}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="90" y="80" class="tag">Q1 · PLACEMENT</text>
+  <text x="90" y="135" class="title">Intelligence is a placement decision</text>
+  <text x="90" y="178" class="sub">The same compound event exposes what each strategy keeps active, recruits, and protects.</text>
+
+  <g transform="translate(90,220)">
+    <rect x="0" y="0" width="1420" height="92" rx="22" fill="#172434"/>
+    <circle cx="75" cy="46" r="24" fill="#D99A2B"/><text x="75" y="53" text-anchor="middle" class="head white">1</text>
+    <text x="120" y="40" class="head white">Weak thermal anomaly appears</text><text x="120" y="69" class="tiny white">robot decides whether richer sensing or inference is worth recruiting</text>
+    <line x1="695" y1="46" x2="785" y2="46" stroke="#A8B7C7" stroke-width="4" marker-end="url(#arrow)"/>
+    <circle cx="850" cy="46" r="24" fill="#C64B4B"/><text x="850" y="53" text-anchor="middle" class="head white">2</text>
+    <text x="895" y="40" class="head white">Second event arrives</text><text x="895" y="69" class="tiny white">coverage and reserve determine whether the system still has options</text>
+  </g>
+
+  <g transform="translate(90,342)">
+    <rect class="panel" x="0" y="0" width="335" height="395" rx="22"/>
+    <text x="26" y="48" class="head">Uniform rich</text>
+    <text x="26" y="81" class="small">Rich capability everywhere</text>
+    <g transform="translate(28,112)">
+      <rect class="active" x="0" y="0" width="279" height="62" rx="12"/><text x="140" y="38" text-anchor="middle" class="body">all sensors + models active</text>
+      <rect class="active" x="0" y="80" width="279" height="62" rx="12"/><text x="140" y="118" text-anchor="middle" class="body">both events covered</text>
+      <rect x="0" y="160" width="279" height="62" rx="12" fill="#FFF4DD" stroke="#D99A2B" stroke-width="2"/><text x="140" y="198" text-anchor="middle" class="body">high continuous cost</text>
+    </g>
+    <text x="26" y="365" class="small">Strong coverage; pays for the</text><text x="26" y="389" class="small">hardest case during ordinary time.</text>
+
+    <rect class="panel" x="360" y="0" width="335" height="395" rx="22"/>
+    <text x="386" y="43" class="head">Conditional</text><text x="386" y="69" class="head">computation</text>
+    <text x="386" y="96" class="small">Run richer modules on demand</text>
+    <g transform="translate(388,112)">
+      <rect class="active" x="0" y="0" width="279" height="62" rx="12"/><text x="140" y="38" text-anchor="middle" class="body">trigger → deeper model</text>
+      <rect class="risk" x="0" y="80" width="279" height="62" rx="12"/><text x="140" y="118" text-anchor="middle" class="body">reserve not explicit</text>
+      <rect x="0" y="160" width="279" height="62" rx="12" fill="#FFF" stroke="#CDD6E0" stroke-width="2"/><text x="140" y="198" text-anchor="middle" class="body">exit often module-local</text>
+    </g>
+    <text x="386" y="365" class="small">Efficient activation; broader</text><text x="386" y="389" class="small">obligations may remain implicit.</text>
+
+    <rect class="panel" x="720" y="0" width="335" height="395" rx="22"/>
+    <text x="746" y="43" class="head">Self-adaptive</text><text x="746" y="69" class="head">orchestration</text>
+    <text x="746" y="96" class="small">Monitor, plan, and reconfigure</text>
+    <g transform="translate(748,112)">
+      <rect class="active" x="0" y="0" width="279" height="62" rx="12"/><text x="140" y="38" text-anchor="middle" class="body">monitor → analyze → plan</text>
+      <rect class="active" x="0" y="80" width="279" height="62" rx="12"/><text x="140" y="118" text-anchor="middle" class="body">relocate + reconfigure</text>
+      <rect class="risk" x="0" y="160" width="279" height="62" rx="12"/><text x="140" y="198" text-anchor="middle" class="body">terms vary by system</text>
+    </g>
+    <text x="746" y="365" class="small">Flexible system response;</text><text x="746" y="389" class="small">contract semantics are not shared.</text>
+
+    <rect x="1080" y="0" width="340" height="395" rx="22" fill="#F0F7FA" stroke="#2F6FA3" stroke-width="3"/>
+    <text x="1106" y="43" class="head">Governed</text><text x="1106" y="69" class="head">appointment</text>
+    <text x="1106" y="96" class="small">Temporary capability under terms</text>
+    <g transform="translate(1108,112)">
+      <rect class="active" x="0" y="0" width="284" height="62" rx="12"/><text x="142" y="38" text-anchor="middle" class="body">sentinel → bounded grant</text>
+      <rect class="reserve" x="0" y="80" width="284" height="62" rx="12"/><text x="142" y="118" text-anchor="middle" class="body">coverage + reserve persist</text>
+      <rect x="0" y="160" width="284" height="62" rx="12" fill="#F3F0F8" stroke="#7057A3" stroke-width="2"/><text x="142" y="198" text-anchor="middle" class="body">authority + exit enforced</text>
+    </g>
+    <text x="1106" y="365" class="small">Concentrates capability while</text><text x="1106" y="389" class="small">protecting continuing obligations.</text>
+  </g>
+
+  <rect x="90" y="772" width="1420" height="70" rx="18" fill="#F4F7FA"/>
+  <text x="800" y="815" text-anchor="middle" class="body">Same demand · same second event · same total-system accounting · different obligations made explicit</text>
+</svg>

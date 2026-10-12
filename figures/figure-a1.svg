@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Intelligence becomes a governed resource</title>
+  <desc id="desc">Unlike forms of intelligence enter a shared appointment control plane. A portable contract, capability fabric, substitution optimizer, compiler and runtime, invariant and assurance layer, and learning and co-design loop make the vision operational. Every capability follows one governed lifecycle from request through learning.</desc>
+  <defs>
+    <style>
+      .title{font:700 43px Arial,sans-serif;fill:#172434}.sub{font:400 23px Arial,sans-serif;fill:#546579}
+      .tag{font:700 18px Arial,sans-serif;fill:#2F6FA3;letter-spacing:1px}.head{font:700 23px Arial,sans-serif;fill:#172434}
+      .body{font:400 18px Arial,sans-serif;fill:#33475B}.small{font:400 16px Arial,sans-serif;fill:#546579}
+      .tiny{font:400 14px Arial,sans-serif;fill:#546579}.input{font:400 17px Arial,sans-serif;fill:#33475B}.cardhead{font:700 17px Arial,sans-serif;fill:#172434}.label{font:700 15px Arial,sans-serif;fill:#2F6FA3;letter-spacing:.5px}
+      .field{font:700 13px Arial,sans-serif;fill:#2F6FA3;letter-spacing:.5px}.panel{fill:#F8FAFC;stroke:#CDD6E0;stroke-width:2}
+    </style>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M0,0 L11,5.5 L0,11 Z" fill="#536A80"/></marker>
+    <marker id="arrowTeal" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M0,0 L11,5.5 L0,11 Z" fill="#2A8C82"/></marker>
+  </defs>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="90" y="80" class="tag">APPENDIX FIGURE A1 · STRATEGIC DESTINATION</text>
+  <text x="90" y="135" class="title">Intelligence becomes a governed resource</text>
+  <text x="90" y="178" class="sub">Unlike capabilities enter one lifecycle without losing what makes them different.</text>
+
+  <g transform="translate(90,225)">
+    <rect class="panel" x="0" y="0" width="360" height="455" rx="24"/>
+    <text x="28" y="43" class="label">UNLIKE FORMS OF INTELLIGENCE</text>
+    <text x="28" y="76" class="head">Alternative routes</text><text x="28" y="101" class="head">to a better decision</text>
+    <g transform="translate(28,122)">
+      <rect x="0" y="0" width="304" height="43" rx="11" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="2"/><circle cx="24" cy="22" r="8" fill="#2F6FA3"/><text x="44" y="28" class="input">Observation + viewpoint</text>
+      <rect x="0" y="51" width="304" height="43" rx="11" fill="#E7F2F8" stroke="#4BA3C7" stroke-width="2"/><circle cx="24" cy="73" r="8" fill="#4BA3C7"/><text x="44" y="79" class="input">Computation + precision</text>
+      <rect x="0" y="102" width="304" height="43" rx="11" fill="#F3F0F8" stroke="#7057A3" stroke-width="2"/><circle cx="24" cy="124" r="8" fill="#7057A3"/><text x="44" y="130" class="input">Memory + retained state</text>
+      <rect x="0" y="153" width="304" height="43" rx="11" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/><circle cx="24" cy="175" r="8" fill="#2A8C82"/><text x="44" y="181" class="input">Remote service + expertise</text>
+      <rect x="0" y="204" width="304" height="43" rx="11" fill="#FFF4DD" stroke="#D99A2B" stroke-width="2"/><circle cx="24" cy="226" r="8" fill="#D99A2B"/><text x="44" y="232" class="input">Physical probing + action</text>
+      <rect x="0" y="255" width="304" height="43" rx="11" fill="#FCECEC" stroke="#C64B4B" stroke-width="2"/><circle cx="24" cy="277" r="8" fill="#C64B4B"/><text x="44" y="283" class="input">Human judgment + authority</text>
+    </g>
+  </g>
+
+  <line x1="450" y1="454" x2="495" y2="454" stroke="#536A80" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <g transform="translate(505,225)">
+    <rect x="0" y="0" width="490" height="455" rx="24" fill="#F0F7FA" stroke="#2F6FA3" stroke-width="3"/>
+    <text x="30" y="43" class="label">APPOINTMENT CONTROL PLANE</text>
+    <text x="30" y="80" class="head">Place the smallest sufficient grant</text>
+    <rect x="28" y="104" width="434" height="90" rx="16" fill="#172434"/>
+    <text x="245" y="130" text-anchor="middle" style="font:700 16px Arial,sans-serif;fill:#FFFFFF">What capability is likely to change</text>
+    <text x="245" y="153" text-anchor="middle" style="font:700 16px Arial,sans-serif;fill:#FFFFFF">the decision before the deadline</text>
+    <text x="245" y="176" text-anchor="middle" style="font:400 15px Arial,sans-serif;fill:#DCE6EF">without consuming protected options?</text>
+    <text x="30" y="226" class="field">PORTABLE KERNEL</text>
+    <g transform="translate(28,242)">
+      <rect class="panel" x="0" y="0" width="98" height="45" rx="11"/><text x="49" y="28" text-anchor="middle" class="small">capability</text>
+      <rect class="panel" x="110" y="0" width="98" height="45" rx="11"/><text x="159" y="28" text-anchor="middle" class="small">placement</text>
+      <rect class="panel" x="220" y="0" width="98" height="45" rx="11"/><text x="269" y="28" text-anchor="middle" class="small">term</text>
+      <rect class="panel" x="330" y="0" width="104" height="45" rx="11"/><text x="382" y="28" text-anchor="middle" class="small">deadline</text>
+      <rect class="panel" x="0" y="57" width="98" height="45" rx="11"/><text x="49" y="85" text-anchor="middle" class="small">budget</text>
+      <rect x="110" y="57" width="98" height="45" rx="11" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/><text x="159" y="85" text-anchor="middle" class="small">reserve</text>
+      <rect x="220" y="57" width="98" height="45" rx="11" fill="#F3F0F8" stroke="#7057A3" stroke-width="2"/><text x="269" y="85" text-anchor="middle" class="small">state</text>
+      <rect x="330" y="57" width="104" height="45" rx="11" fill="#FCECEC" stroke="#C64B4B" stroke-width="2"/><text x="382" y="85" text-anchor="middle" class="small">authority</text>
+    </g>
+    <rect x="28" y="366" width="434" height="60" rx="14" fill="#FFFFFF" stroke="#7057A3" stroke-width="2"/>
+    <text x="245" y="390" text-anchor="middle" class="field">TYPED DOMAIN EXTENSIONS</text>
+    <text x="245" y="414" text-anchor="middle" class="small">meaning stays local; lifecycle obligations travel</text>
+  </g>
+
+  <line x1="995" y1="454" x2="1040" y2="454" stroke="#536A80" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <g transform="translate(1050,225)">
+    <rect class="panel" x="0" y="0" width="460" height="455" rx="24"/>
+    <text x="26" y="43" class="label">SIX OPERATIONAL STRUCTURES</text>
+    <g transform="translate(26,70)">
+      <rect x="0" y="0" width="196" height="100" rx="16" fill="#F3F0F8" stroke="#7057A3" stroke-width="2"/>
+      <text x="16" y="31" class="field">01 · CONTRACT</text><text x="16" y="59" class="cardhead">Portable object</text><text x="16" y="82" class="tiny">kernel + typed profiles</text>
+      <rect x="212" y="0" width="196" height="100" rx="16" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="2"/>
+      <text x="228" y="31" class="field">02 · DISCOVERY</text><text x="228" y="59" class="cardhead">Capability fabric</text><text x="228" y="82" class="tiny">promises + availability</text>
+      <rect x="0" y="116" width="196" height="100" rx="16" fill="#FFF4DD" stroke="#D99A2B" stroke-width="2"/>
+      <text x="16" y="147" class="field">03 · CHOICE</text><text x="16" y="175" class="cardhead">Substitution</text><text x="16" y="198" class="tiny">frontiers + policy</text>
+      <rect x="212" y="116" width="196" height="100" rx="16" fill="#E7F2F8" stroke="#2F6FA3" stroke-width="2"/>
+      <text x="228" y="147" class="field">04 · EXECUTION</text><text x="228" y="175" class="cardhead">Compiler + runtime</text><text x="228" y="198" class="tiny">map + admit + retire</text>
+      <rect x="0" y="232" width="196" height="100" rx="16" fill="#E6F3EF" stroke="#2A8C82" stroke-width="2"/>
+      <text x="16" y="263" class="field">05 · BOUNDS</text><text x="16" y="291" class="cardhead">Invariant layer</text><text x="16" y="314" class="tiny">monitor + revoke + assure</text>
+      <rect x="212" y="232" width="196" height="100" rx="16" fill="#F8FAFC" stroke="#CDD6E0" stroke-width="2"/>
+      <text x="228" y="263" class="field">06 · EVIDENCE</text><text x="228" y="291" class="cardhead">Learning loop</text><text x="228" y="314" class="tiny">trace + learn + redesign</text>
+    </g>
+    <path d="M48,423 C130,391 284,391 374,420" fill="none" stroke="#2A8C82" stroke-width="3" marker-end="url(#arrowTeal)"/>
+  </g>
+
+  <g transform="translate(90,718)">
+    <rect x="0" y="0" width="1420" height="100" rx="22" fill="#F4F7FA" stroke="#CDD6E0" stroke-width="2"/>
+    <text x="28" y="33" class="label">ONE GOVERNED LIFECYCLE</text>
+    <g transform="translate(28,47)">
+      <text x="0" y="22" class="body">Request</text><text x="135" y="22" class="body">Admit</text><text x="258" y="22" class="body">Place</text><text x="377" y="22" class="body">Activate</text><text x="523" y="22" class="body">Supervise</text><text x="692" y="22" class="body">Adapt</text><text x="822" y="22" class="body">Complete / revoke</text><text x="1055" y="22" class="body">Clean up</text><text x="1210" y="22" class="body">Learn</text>
+      <line x1="82" y1="15" x2="118" y2="15" stroke="#536A80" stroke-width="3" marker-end="url(#arrow)"/><line x1="195" y1="15" x2="240" y2="15" stroke="#536A80" stroke-width="3" marker-end="url(#arrow)"/><line x1="310" y1="15" x2="359" y2="15" stroke="#536A80" stroke-width="3" marker-end="url(#arrow)"/><line x1="456" y1="15" x2="505" y2="15" stroke="#536A80" stroke-width="3" marker-end="url(#arrow)"/><line x1="625" y1="15" x2="674" y2="15" stroke="#536A80" stroke-width="3" marker-end="url(#arrow)"/><line x1="746" y1="15" x2="804" y2="15" stroke="#536A80" stroke-width="3" marker-end="url(#arrow)"/><line x1="978" y1="15" x2="1035" y2="15" stroke="#536A80" stroke-width="3" marker-end="url(#arrow)"/><line x1="1140" y1="15" x2="1192" y2="15" stroke="#536A80" stroke-width="3" marker-end="url(#arrow)"/>
+    </g>
+  </g>
+</svg>
