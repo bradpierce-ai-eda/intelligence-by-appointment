@@ -152,10 +152,23 @@ def main() -> None:
 
     checksum_lines = (root / "checksums.sha256").read_text(encoding="utf-8").splitlines()
     require(checksum_lines, "Checksum manifest empty")
+    manifest_paths = set()
     for line in checksum_lines:
         expected, relative = line.split("  ", 1)
+        manifest_paths.add(relative)
+        require("__pycache__" not in Path(relative).parts and Path(relative).suffix != ".pyc", f"Ignored cache artifact in checksum manifest: {relative}")
         require((root / relative).is_file(), f"Checksum target missing: {relative}")
         require(digest(root / relative) == expected, f"Checksum mismatch: {relative}")
+    public_files = {
+        path.relative_to(root).as_posix()
+        for path in root.rglob("*")
+        if path.is_file()
+        and path.name != "checksums.sha256"
+        and ".git" not in path.parts
+        and "__pycache__" not in path.parts
+        and path.suffix != ".pyc"
+    }
+    require(manifest_paths == public_files, f"Checksum coverage mismatch: missing={sorted(public_files - manifest_paths)}, extra={sorted(manifest_paths - public_files)}")
 
     searchable = "\n".join((root / name).read_text(encoding="utf-8") for name in ["README.md", "index.html", "metadata.json", "CITATION.cff", "citation.bib", "PROVENANCE.md"])
     require(searchable.count(DOI) >= 12, "DOI is not sufficiently exposed")
