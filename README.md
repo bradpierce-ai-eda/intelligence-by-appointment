@@ -5,7 +5,7 @@
 **Canonical publication:** [10.5281/zenodo.22882247](https://doi.org/10.5281/zenodo.22882247)  
 **Citation record:** Pierce, Brad. *Intelligence by Appointment: A Research Program for Temporary, Governed, and Revocable Intelligence*. Zenodo, 2026. DOI: [10.5281/zenodo.22882247](https://doi.org/10.5281/zenodo.22882247).
 
-Paper formats: [complete Markdown](paper.md) · [complete static HTML](https://bradpierce-ai-eda.github.io/intelligence-by-appointment/) · [released PDF](intelligence-by-appointment.pdf) · [paper citation BibTeX](citation.bib) · [CITATION.cff](CITATION.cff)
+Paper formats: [complete Markdown](paper.md) · [complete static HTML](https://bradpierce.ai/intelligence-by-appointment/) · [released PDF](intelligence-by-appointment.pdf) · [paper citation BibTeX](citation.bib) · [CITATION.cff](CITATION.cff)
 
 Source bibliography: [published numbered references](references.md) · [normalized data](bibliography.json) · [BibTeX](references.bib) · [CSL JSON](references.csl.json) · [RIS](references.ris)
 
