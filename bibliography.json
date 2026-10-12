@@ -1,0 +1,1206 @@
+{
+  "schema_version": "1.0",
+  "source": {
+    "doi": "10.5281/zenodo.22882247",
+    "authority": "released paper bibliography"
+  },
+  "counts": {
+    "reference_slots": 33,
+    "works": 33,
+    "reference_work_links": 33
+  },
+  "reference_slots": [
+    {
+      "id": "ref-001",
+      "number": 1,
+      "published_text": "Choi, Y. R., Park, S., and Kim, H.-S. “[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI.” 2026.",
+      "raw_reference": "[1] Choi, Y. R., Park, S., and Kim, H.-S. “[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI.” 2026.",
+      "work_ids": [
+        "work-f059-ref-001"
+      ]
+    },
+    {
+      "id": "ref-002",
+      "number": 2,
+      "published_text": "Bjorck, J., et al. “GR00T N1: An Open Foundation Model for Generalist Humanoid Robots.” 2025.",
+      "raw_reference": "[2] Bjorck, J., et al. “GR00T N1: An Open Foundation Model for Generalist Humanoid Robots.” 2025.",
+      "work_ids": [
+        "work-f059-ref-002"
+      ]
+    },
+    {
+      "id": "ref-003",
+      "number": 3,
+      "published_text": "Taniguchi, T., et al. “System 0/1/2/3: Quad-Process Theory for Multi-Timescale Embodied Collective Cognitive Systems.” 2025.",
+      "raw_reference": "[3] Taniguchi, T., et al. “System 0/1/2/3: Quad-Process Theory for Multi-Timescale Embodied Collective Cognitive Systems.” 2025.",
+      "work_ids": [
+        "work-f059-ref-003"
+      ]
+    },
+    {
+      "id": "ref-004",
+      "number": 4,
+      "published_text": "Graves, A. “Adaptive Computation Time for Recurrent Neural Networks.” 2016.",
+      "raw_reference": "[4] Graves, A. “Adaptive Computation Time for Recurrent Neural Networks.” 2016.",
+      "work_ids": [
+        "work-f059-ref-004"
+      ]
+    },
+    {
+      "id": "ref-005",
+      "number": 5,
+      "published_text": "Shazeer, N., et al. “Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.” 2017.",
+      "raw_reference": "[5] Shazeer, N., et al. “Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.” 2017.",
+      "work_ids": [
+        "work-f059-ref-005"
+      ]
+    },
+    {
+      "id": "ref-006",
+      "number": 6,
+      "published_text": "Banino, A., Balaguer, J., and Blundell, C. “PonderNet: Learning to Ponder.” 2021.",
+      "raw_reference": "[6] Banino, A., Balaguer, J., and Blundell, C. “PonderNet: Learning to Ponder.” 2021.",
+      "work_ids": [
+        "work-f059-ref-006"
+      ]
+    },
+    {
+      "id": "ref-007",
+      "number": 7,
+      "published_text": "Wang, X., et al. “SkipNet: Learning Dynamic Routing in Convolutional Networks.” 2018.",
+      "raw_reference": "[7] Wang, X., et al. “SkipNet: Learning Dynamic Routing in Convolutional Networks.” 2018.",
+      "work_ids": [
+        "work-f059-ref-007"
+      ]
+    },
+    {
+      "id": "ref-008",
+      "number": 8,
+      "published_text": "Bajcsy, R. “Active Perception.” Proceedings of the IEEE, 1988.",
+      "raw_reference": "[8] Bajcsy, R. “Active Perception.” Proceedings of the IEEE, 1988.",
+      "work_ids": [
+        "work-f059-ref-008"
+      ]
+    },
+    {
+      "id": "ref-009",
+      "number": 9,
+      "published_text": "Ballard, D. H. “Animate Vision.” Artificial Intelligence, 1991.",
+      "raw_reference": "[9] Ballard, D. H. “Animate Vision.” Artificial Intelligence, 1991.",
+      "work_ids": [
+        "work-f059-ref-009"
+      ]
+    },
+    {
+      "id": "ref-010",
+      "number": 10,
+      "published_text": "Mnih, V., et al. “Recurrent Models of Visual Attention.” Advances in Neural Information Processing Systems, 2014.",
+      "raw_reference": "[10] Mnih, V., et al. “Recurrent Models of Visual Attention.” Advances in Neural Information Processing Systems, 2014.",
+      "work_ids": [
+        "work-f059-ref-010"
+      ]
+    },
+    {
+      "id": "ref-011",
+      "number": 11,
+      "published_text": "Kaiser, J., et al. “Embodied Neuromorphic Vision with Event-Driven Random Backpropagation.” 2019.",
+      "raw_reference": "[11] Kaiser, J., et al. “Embodied Neuromorphic Vision with Event-Driven Random Backpropagation.” 2019.",
+      "work_ids": [
+        "work-f059-ref-011"
+      ]
+    },
+    {
+      "id": "ref-012",
+      "number": 12,
+      "published_text": "Yao, S., et al. “Scheduling Real-Time Deep Learning Services as Imprecise Computations.” 2020.",
+      "raw_reference": "[12] Yao, S., et al. “Scheduling Real-Time Deep Learning Services as Imprecise Computations.” 2020.",
+      "work_ids": [
+        "work-f059-ref-012"
+      ]
+    },
+    {
+      "id": "ref-013",
+      "number": 13,
+      "published_text": "Abeni, L., and Buttazzo, G. “Resource Reservation in Dynamic Real-Time Systems.” Real-Time Systems, 2004.",
+      "raw_reference": "[13] Abeni, L., and Buttazzo, G. “Resource Reservation in Dynamic Real-Time Systems.” Real-Time Systems, 2004.",
+      "work_ids": [
+        "work-f059-ref-013"
+      ]
+    },
+    {
+      "id": "ref-014",
+      "number": 14,
+      "published_text": "Vestal, S. “Preemptive Scheduling of Multi-Criticality Systems with Varying Degrees of Execution Time Assurance.” 2007.",
+      "raw_reference": "[14] Vestal, S. “Preemptive Scheduling of Multi-Criticality Systems with Varying Degrees of Execution Time Assurance.” 2007.",
+      "work_ids": [
+        "work-f059-ref-014"
+      ]
+    },
+    {
+      "id": "ref-015",
+      "number": 15,
+      "published_text": "Seto, D., Krogh, B., Sha, L., and Chutinan, A. “The Simplex Architecture for Safe Online Control System Upgrades.” 1998.",
+      "raw_reference": "[15] Seto, D., Krogh, B., Sha, L., and Chutinan, A. “The Simplex Architecture for Safe Online Control System Upgrades.” 1998.",
+      "work_ids": [
+        "work-f059-ref-015"
+      ]
+    },
+    {
+      "id": "ref-016",
+      "number": 16,
+      "published_text": "Hobbs, K. L., et al. “Run Time Assurance for Safety-Critical Systems: An Introduction to Safety Filtering Approaches for Complex Control Systems.” 2021.",
+      "raw_reference": "[16] Hobbs, K. L., et al. “Run Time Assurance for Safety-Critical Systems: An Introduction to Safety Filtering Approaches for Complex Control Systems.” 2021.",
+      "work_ids": [
+        "work-f059-ref-016"
+      ]
+    },
+    {
+      "id": "ref-017",
+      "number": 17,
+      "published_text": "Desai, A., et al. “SOTER: A Runtime Assurance Framework for Programming Safe Robotics Systems.” 2019.",
+      "raw_reference": "[17] Desai, A., et al. “SOTER: A Runtime Assurance Framework for Programming Safe Robotics Systems.” 2019.",
+      "work_ids": [
+        "work-f059-ref-017"
+      ]
+    },
+    {
+      "id": "ref-018",
+      "number": 18,
+      "published_text": "Horowitz, M. “Computing’s Energy Problem (and What We Can Do About It).” 2014.",
+      "raw_reference": "[18] Horowitz, M. “Computing’s Energy Problem (and What We Can Do About It).” 2014.",
+      "work_ids": [
+        "work-f059-ref-018"
+      ]
+    },
+    {
+      "id": "ref-019",
+      "number": 19,
+      "published_text": "Chen, Y.-H., Emer, J., and Sze, V. “Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.” 2016.",
+      "raw_reference": "[19] Chen, Y.-H., Emer, J., and Sze, V. “Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.” 2016.",
+      "work_ids": [
+        "work-f059-ref-019"
+      ]
+    },
+    {
+      "id": "ref-020",
+      "number": 20,
+      "published_text": "Ragan-Kelley, J., et al. “Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines.” 2013.",
+      "raw_reference": "[20] Ragan-Kelley, J., et al. “Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines.” 2013.",
+      "work_ids": [
+        "work-f059-ref-020"
+      ]
+    },
+    {
+      "id": "ref-021",
+      "number": 21,
+      "published_text": "Chen, T., et al. “TVM: An Automated End-to-End Optimizing Compiler for Deep Learning.” 2018.",
+      "raw_reference": "[21] Chen, T., et al. “TVM: An Automated End-to-End Optimizing Compiler for Deep Learning.” 2018.",
+      "work_ids": [
+        "work-f059-ref-021"
+      ]
+    },
+    {
+      "id": "ref-022",
+      "number": 22,
+      "published_text": "Parashar, A., et al. “Timeloop: A Systematic Approach to DNN Accelerator Evaluation.” 2019.",
+      "raw_reference": "[22] Parashar, A., et al. “Timeloop: A Systematic Approach to DNN Accelerator Evaluation.” 2019.",
+      "work_ids": [
+        "work-f059-ref-022"
+      ]
+    },
+    {
+      "id": "ref-023",
+      "number": 23,
+      "published_text": "Chen, D., et al. “AI+HW 2035: Shaping the Next Decade.” arXiv:2603.05225, 2026.",
+      "raw_reference": "[23] Chen, D., et al. “AI+HW 2035: Shaping the Next Decade.” arXiv:2603.05225, 2026.",
+      "work_ids": [
+        "work-f059-ref-023"
+      ]
+    },
+    {
+      "id": "ref-024",
+      "number": 24,
+      "published_text": "Cheng, B. H. C., et al. “Software Engineering for Self-Adaptive Systems: A Research Roadmap.” In Software Engineering for Self-Adaptive Systems, LNCS 5525, Springer, 2009, pp. 1–26.",
+      "raw_reference": "[24] Cheng, B. H. C., et al. “Software Engineering for Self-Adaptive Systems: A Research Roadmap.” In Software Engineering for Self-Adaptive Systems, LNCS 5525, Springer, 2009, pp. 1–26.",
+      "work_ids": [
+        "work-f059-ref-024"
+      ]
+    },
+    {
+      "id": "ref-025",
+      "number": 25,
+      "published_text": "de Lemos, R., et al. “Software Engineering for Self-Adaptive Systems: A Second Research Roadmap.” In Software Engineering for Self-Adaptive Systems II, LNCS 7475, Springer, 2013, pp. 1–32.",
+      "raw_reference": "[25] de Lemos, R., et al. “Software Engineering for Self-Adaptive Systems: A Second Research Roadmap.” In Software Engineering for Self-Adaptive Systems II, LNCS 7475, Springer, 2013, pp. 1–32.",
+      "work_ids": [
+        "work-f059-ref-025"
+      ]
+    },
+    {
+      "id": "ref-026",
+      "number": 26,
+      "published_text": "Kokkonen, H., et al. “Autonomy and Intelligence in the Computing Continuum: Challenges, Enablers, and Future Directions for Orchestration.” arXiv:2205.01423, 2022.",
+      "raw_reference": "[26] Kokkonen, H., et al. “Autonomy and Intelligence in the Computing Continuum: Challenges, Enablers, and Future Directions for Orchestration.” arXiv:2205.01423, 2022.",
+      "work_ids": [
+        "work-f059-ref-026"
+      ]
+    },
+    {
+      "id": "ref-027",
+      "number": 27,
+      "published_text": "Sedlak, B., et al. “Service Orchestration in the Computing Continuum: Structural Challenges and Vision.” arXiv:2602.15794, 2026.",
+      "raw_reference": "[27] Sedlak, B., et al. “Service Orchestration in the Computing Continuum: Structural Challenges and Vision.” arXiv:2602.15794, 2026.",
+      "work_ids": [
+        "work-f059-ref-027"
+      ]
+    },
+    {
+      "id": "ref-028",
+      "number": 28,
+      "published_text": "Semiconductor Research Corporation and Semiconductor Industry Association. “The Decadal Plan for Semiconductors.” Full report, 2021.",
+      "raw_reference": "[28] Semiconductor Research Corporation and Semiconductor Industry Association. “The Decadal Plan for Semiconductors.” Full report, 2021.",
+      "work_ids": [
+        "work-f059-ref-028"
+      ]
+    },
+    {
+      "id": "ref-029",
+      "number": 29,
+      "published_text": "Christensen, D. V., et al. “2022 Roadmap on Neuromorphic Computing and Engineering.” Neuromorphic Computing and Engineering 2(2), 022501, 2022.",
+      "raw_reference": "[29] Christensen, D. V., et al. “2022 Roadmap on Neuromorphic Computing and Engineering.” Neuromorphic Computing and Engineering 2(2), 022501, 2022.",
+      "work_ids": [
+        "work-f059-ref-029"
+      ]
+    },
+    {
+      "id": "ref-030",
+      "number": 30,
+      "published_text": "Dai, T., Simchi-Levi, D., Wu, M. X., and Xie, Y. “Assured Autonomy: How Operations Research Powers and Orchestrates Generative AI Systems.” arXiv:2512.23978, 2025.",
+      "raw_reference": "[30] Dai, T., Simchi-Levi, D., Wu, M. X., and Xie, Y. “Assured Autonomy: How Operations Research Powers and Orchestrates Generative AI Systems.” arXiv:2512.23978, 2025.",
+      "work_ids": [
+        "work-f059-ref-030"
+      ]
+    },
+    {
+      "id": "ref-031",
+      "number": 31,
+      "published_text": "Autili, M., Filippone, G., Memon, M. A., and Pelliccione, P. “The Runtime Dimension of Ethics in Self-Adaptive Systems.” arXiv:2602.17426, 2026.",
+      "raw_reference": "[31] Autili, M., Filippone, G., Memon, M. A., and Pelliccione, P. “The Runtime Dimension of Ethics in Self-Adaptive Systems.” arXiv:2602.17426, 2026.",
+      "work_ids": [
+        "work-f059-ref-031"
+      ]
+    },
+    {
+      "id": "ref-032",
+      "number": 32,
+      "published_text": "Legg, S., and Hutter, M. “Universal Intelligence: A Definition of Machine Intelligence.” Minds and Machines 17, 391–444, 2007.",
+      "raw_reference": "[32] Legg, S., and Hutter, M. “Universal Intelligence: A Definition of Machine Intelligence.” Minds and Machines 17, 391–444, 2007.",
+      "work_ids": [
+        "work-f059-ref-032"
+      ]
+    },
+    {
+      "id": "ref-033",
+      "number": 33,
+      "published_text": "Gershman, S. J., Horvitz, E. J., and Tenenbaum, J. B. “Computational Rationality: A Converging Paradigm for Intelligence in Brains, Minds, and Machines.” Science 349(6245), 273–278, 2015.",
+      "raw_reference": "[33] Gershman, S. J., Horvitz, E. J., and Tenenbaum, J. B. “Computational Rationality: A Converging Paradigm for Intelligence in Brains, Minds, and Machines.” Science 349(6245), 273–278, 2015.",
+      "work_ids": [
+        "work-f059-ref-033"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "id": "work-f059-ref-001",
+      "citekey": "f059_ref_001",
+      "type": "article",
+      "title": "[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI.",
+      "authors": [
+        {
+          "literal": "Choi, Y. R., Park, S., and Kim, H.-S"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026
+        ]
+      },
+      "url": null,
+      "published_context": "Choi, Y. R., Park, S., and Kim, H.-S. “[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI.” 2026.",
+      "reference_slots": [
+        "ref-001"
+      ]
+    },
+    {
+      "id": "work-f059-ref-002",
+      "citekey": "f059_ref_002",
+      "type": "article",
+      "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots.",
+      "authors": [
+        {
+          "literal": "Bjorck, J., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2025
+        ]
+      },
+      "url": null,
+      "published_context": "Bjorck, J., et al. “GR00T N1: An Open Foundation Model for Generalist Humanoid Robots.” 2025.",
+      "reference_slots": [
+        "ref-002"
+      ]
+    },
+    {
+      "id": "work-f059-ref-003",
+      "citekey": "f059_ref_003",
+      "type": "article",
+      "title": "System 0/1/2/3: Quad-Process Theory for Multi-Timescale Embodied Collective Cognitive Systems.",
+      "authors": [
+        {
+          "literal": "Taniguchi, T., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2025
+        ]
+      },
+      "url": null,
+      "published_context": "Taniguchi, T., et al. “System 0/1/2/3: Quad-Process Theory for Multi-Timescale Embodied Collective Cognitive Systems.” 2025.",
+      "reference_slots": [
+        "ref-003"
+      ]
+    },
+    {
+      "id": "work-f059-ref-004",
+      "citekey": "f059_ref_004",
+      "type": "article",
+      "title": "Adaptive Computation Time for Recurrent Neural Networks.",
+      "authors": [
+        {
+          "literal": "Graves, A"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2016
+        ]
+      },
+      "url": null,
+      "published_context": "Graves, A. “Adaptive Computation Time for Recurrent Neural Networks.” 2016.",
+      "reference_slots": [
+        "ref-004"
+      ]
+    },
+    {
+      "id": "work-f059-ref-005",
+      "citekey": "f059_ref_005",
+      "type": "article",
+      "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.",
+      "authors": [
+        {
+          "literal": "Shazeer, N., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2017
+        ]
+      },
+      "url": null,
+      "published_context": "Shazeer, N., et al. “Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.” 2017.",
+      "reference_slots": [
+        "ref-005"
+      ]
+    },
+    {
+      "id": "work-f059-ref-006",
+      "citekey": "f059_ref_006",
+      "type": "article",
+      "title": "PonderNet: Learning to Ponder.",
+      "authors": [
+        {
+          "literal": "Banino, A., Balaguer, J., and Blundell, C"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2021
+        ]
+      },
+      "url": null,
+      "published_context": "Banino, A., Balaguer, J., and Blundell, C. “PonderNet: Learning to Ponder.” 2021.",
+      "reference_slots": [
+        "ref-006"
+      ]
+    },
+    {
+      "id": "work-f059-ref-007",
+      "citekey": "f059_ref_007",
+      "type": "article",
+      "title": "SkipNet: Learning Dynamic Routing in Convolutional Networks.",
+      "authors": [
+        {
+          "literal": "Wang, X., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2018
+        ]
+      },
+      "url": null,
+      "published_context": "Wang, X., et al. “SkipNet: Learning Dynamic Routing in Convolutional Networks.” 2018.",
+      "reference_slots": [
+        "ref-007"
+      ]
+    },
+    {
+      "id": "work-f059-ref-008",
+      "citekey": "f059_ref_008",
+      "type": "article",
+      "title": "Active Perception.",
+      "authors": [
+        {
+          "literal": "Bajcsy, R"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1988
+        ]
+      },
+      "url": null,
+      "published_context": "Bajcsy, R. “Active Perception.” Proceedings of the IEEE, 1988.",
+      "reference_slots": [
+        "ref-008"
+      ]
+    },
+    {
+      "id": "work-f059-ref-009",
+      "citekey": "f059_ref_009",
+      "type": "article",
+      "title": "Animate Vision.",
+      "authors": [
+        {
+          "literal": "Ballard, D. H"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1991
+        ]
+      },
+      "url": null,
+      "published_context": "Ballard, D. H. “Animate Vision.” Artificial Intelligence, 1991.",
+      "reference_slots": [
+        "ref-009"
+      ]
+    },
+    {
+      "id": "work-f059-ref-010",
+      "citekey": "f059_ref_010",
+      "type": "article",
+      "title": "Recurrent Models of Visual Attention.",
+      "authors": [
+        {
+          "literal": "Mnih, V., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2014
+        ]
+      },
+      "url": null,
+      "published_context": "Mnih, V., et al. “Recurrent Models of Visual Attention.” Advances in Neural Information Processing Systems, 2014.",
+      "reference_slots": [
+        "ref-010"
+      ]
+    },
+    {
+      "id": "work-f059-ref-011",
+      "citekey": "f059_ref_011",
+      "type": "article",
+      "title": "Embodied Neuromorphic Vision with Event-Driven Random Backpropagation.",
+      "authors": [
+        {
+          "literal": "Kaiser, J., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2019
+        ]
+      },
+      "url": null,
+      "published_context": "Kaiser, J., et al. “Embodied Neuromorphic Vision with Event-Driven Random Backpropagation.” 2019.",
+      "reference_slots": [
+        "ref-011"
+      ]
+    },
+    {
+      "id": "work-f059-ref-012",
+      "citekey": "f059_ref_012",
+      "type": "article",
+      "title": "Scheduling Real-Time Deep Learning Services as Imprecise Computations.",
+      "authors": [
+        {
+          "literal": "Yao, S., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2020
+        ]
+      },
+      "url": null,
+      "published_context": "Yao, S., et al. “Scheduling Real-Time Deep Learning Services as Imprecise Computations.” 2020.",
+      "reference_slots": [
+        "ref-012"
+      ]
+    },
+    {
+      "id": "work-f059-ref-013",
+      "citekey": "f059_ref_013",
+      "type": "article",
+      "title": "Resource Reservation in Dynamic Real-Time Systems.",
+      "authors": [
+        {
+          "literal": "Abeni, L., and Buttazzo, G"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2004
+        ]
+      },
+      "url": null,
+      "published_context": "Abeni, L., and Buttazzo, G. “Resource Reservation in Dynamic Real-Time Systems.” Real-Time Systems, 2004.",
+      "reference_slots": [
+        "ref-013"
+      ]
+    },
+    {
+      "id": "work-f059-ref-014",
+      "citekey": "f059_ref_014",
+      "type": "article",
+      "title": "Preemptive Scheduling of Multi-Criticality Systems with Varying Degrees of Execution Time Assurance.",
+      "authors": [
+        {
+          "literal": "Vestal, S"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2007
+        ]
+      },
+      "url": null,
+      "published_context": "Vestal, S. “Preemptive Scheduling of Multi-Criticality Systems with Varying Degrees of Execution Time Assurance.” 2007.",
+      "reference_slots": [
+        "ref-014"
+      ]
+    },
+    {
+      "id": "work-f059-ref-015",
+      "citekey": "f059_ref_015",
+      "type": "article",
+      "title": "The Simplex Architecture for Safe Online Control System Upgrades.",
+      "authors": [
+        {
+          "literal": "Seto, D., Krogh, B., Sha, L., and Chutinan, A"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1998
+        ]
+      },
+      "url": null,
+      "published_context": "Seto, D., Krogh, B., Sha, L., and Chutinan, A. “The Simplex Architecture for Safe Online Control System Upgrades.” 1998.",
+      "reference_slots": [
+        "ref-015"
+      ]
+    },
+    {
+      "id": "work-f059-ref-016",
+      "citekey": "f059_ref_016",
+      "type": "article",
+      "title": "Run Time Assurance for Safety-Critical Systems: An Introduction to Safety Filtering Approaches for Complex Control Systems.",
+      "authors": [
+        {
+          "literal": "Hobbs, K. L., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2021
+        ]
+      },
+      "url": null,
+      "published_context": "Hobbs, K. L., et al. “Run Time Assurance for Safety-Critical Systems: An Introduction to Safety Filtering Approaches for Complex Control Systems.” 2021.",
+      "reference_slots": [
+        "ref-016"
+      ]
+    },
+    {
+      "id": "work-f059-ref-017",
+      "citekey": "f059_ref_017",
+      "type": "article",
+      "title": "SOTER: A Runtime Assurance Framework for Programming Safe Robotics Systems.",
+      "authors": [
+        {
+          "literal": "Desai, A., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2019
+        ]
+      },
+      "url": null,
+      "published_context": "Desai, A., et al. “SOTER: A Runtime Assurance Framework for Programming Safe Robotics Systems.” 2019.",
+      "reference_slots": [
+        "ref-017"
+      ]
+    },
+    {
+      "id": "work-f059-ref-018",
+      "citekey": "f059_ref_018",
+      "type": "article",
+      "title": "Computing’s Energy Problem (and What We Can Do About It).",
+      "authors": [
+        {
+          "literal": "Horowitz, M"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2014
+        ]
+      },
+      "url": null,
+      "published_context": "Horowitz, M. “Computing’s Energy Problem (and What We Can Do About It).” 2014.",
+      "reference_slots": [
+        "ref-018"
+      ]
+    },
+    {
+      "id": "work-f059-ref-019",
+      "citekey": "f059_ref_019",
+      "type": "article",
+      "title": "Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.",
+      "authors": [
+        {
+          "literal": "Chen, Y.-H., Emer, J., and Sze, V"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2016
+        ]
+      },
+      "url": null,
+      "published_context": "Chen, Y.-H., Emer, J., and Sze, V. “Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.” 2016.",
+      "reference_slots": [
+        "ref-019"
+      ]
+    },
+    {
+      "id": "work-f059-ref-020",
+      "citekey": "f059_ref_020",
+      "type": "article",
+      "title": "Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines.",
+      "authors": [
+        {
+          "literal": "Ragan-Kelley, J., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2013
+        ]
+      },
+      "url": null,
+      "published_context": "Ragan-Kelley, J., et al. “Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines.” 2013.",
+      "reference_slots": [
+        "ref-020"
+      ]
+    },
+    {
+      "id": "work-f059-ref-021",
+      "citekey": "f059_ref_021",
+      "type": "article",
+      "title": "TVM: An Automated End-to-End Optimizing Compiler for Deep Learning.",
+      "authors": [
+        {
+          "literal": "Chen, T., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2018
+        ]
+      },
+      "url": null,
+      "published_context": "Chen, T., et al. “TVM: An Automated End-to-End Optimizing Compiler for Deep Learning.” 2018.",
+      "reference_slots": [
+        "ref-021"
+      ]
+    },
+    {
+      "id": "work-f059-ref-022",
+      "citekey": "f059_ref_022",
+      "type": "article",
+      "title": "Timeloop: A Systematic Approach to DNN Accelerator Evaluation.",
+      "authors": [
+        {
+          "literal": "Parashar, A., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2019
+        ]
+      },
+      "url": null,
+      "published_context": "Parashar, A., et al. “Timeloop: A Systematic Approach to DNN Accelerator Evaluation.” 2019.",
+      "reference_slots": [
+        "ref-022"
+      ]
+    },
+    {
+      "id": "work-f059-ref-023",
+      "citekey": "f059_ref_023",
+      "type": "article",
+      "title": "AI+HW 2035: Shaping the Next Decade.",
+      "authors": [
+        {
+          "literal": "Chen, D., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026
+        ]
+      },
+      "url": "https://arxiv.org/abs/2603.05225",
+      "published_context": "Chen, D., et al. “AI+HW 2035: Shaping the Next Decade.” arXiv:2603.05225, 2026.",
+      "reference_slots": [
+        "ref-023"
+      ]
+    },
+    {
+      "id": "work-f059-ref-024",
+      "citekey": "f059_ref_024",
+      "type": "article",
+      "title": "Software Engineering for Self-Adaptive Systems: A Research Roadmap.",
+      "authors": [
+        {
+          "literal": "Cheng, B. H. C., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2009
+        ]
+      },
+      "url": null,
+      "published_context": "Cheng, B. H. C., et al. “Software Engineering for Self-Adaptive Systems: A Research Roadmap.” In Software Engineering for Self-Adaptive Systems, LNCS 5525, Springer, 2009, pp. 1–26.",
+      "reference_slots": [
+        "ref-024"
+      ]
+    },
+    {
+      "id": "work-f059-ref-025",
+      "citekey": "f059_ref_025",
+      "type": "article",
+      "title": "Software Engineering for Self-Adaptive Systems: A Second Research Roadmap.",
+      "authors": [
+        {
+          "literal": "de Lemos, R., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2013
+        ]
+      },
+      "url": null,
+      "published_context": "de Lemos, R., et al. “Software Engineering for Self-Adaptive Systems: A Second Research Roadmap.” In Software Engineering for Self-Adaptive Systems II, LNCS 7475, Springer, 2013, pp. 1–32.",
+      "reference_slots": [
+        "ref-025"
+      ]
+    },
+    {
+      "id": "work-f059-ref-026",
+      "citekey": "f059_ref_026",
+      "type": "article",
+      "title": "Autonomy and Intelligence in the Computing Continuum: Challenges, Enablers, and Future Directions for Orchestration.",
+      "authors": [
+        {
+          "literal": "Kokkonen, H., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2022
+        ]
+      },
+      "url": "https://arxiv.org/abs/2205.01423",
+      "published_context": "Kokkonen, H., et al. “Autonomy and Intelligence in the Computing Continuum: Challenges, Enablers, and Future Directions for Orchestration.” arXiv:2205.01423, 2022.",
+      "reference_slots": [
+        "ref-026"
+      ]
+    },
+    {
+      "id": "work-f059-ref-027",
+      "citekey": "f059_ref_027",
+      "type": "article",
+      "title": "Service Orchestration in the Computing Continuum: Structural Challenges and Vision.",
+      "authors": [
+        {
+          "literal": "Sedlak, B., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026
+        ]
+      },
+      "url": "https://arxiv.org/abs/2602.15794",
+      "published_context": "Sedlak, B., et al. “Service Orchestration in the Computing Continuum: Structural Challenges and Vision.” arXiv:2602.15794, 2026.",
+      "reference_slots": [
+        "ref-027"
+      ]
+    },
+    {
+      "id": "work-f059-ref-028",
+      "citekey": "f059_ref_028",
+      "type": "article",
+      "title": "The Decadal Plan for Semiconductors.",
+      "authors": [
+        {
+          "literal": "Semiconductor Research Corporation and Semiconductor Industry Association"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2021
+        ]
+      },
+      "url": null,
+      "published_context": "Semiconductor Research Corporation and Semiconductor Industry Association. “The Decadal Plan for Semiconductors.” Full report, 2021.",
+      "reference_slots": [
+        "ref-028"
+      ]
+    },
+    {
+      "id": "work-f059-ref-029",
+      "citekey": "f059_ref_029",
+      "type": "article",
+      "title": "2022 Roadmap on Neuromorphic Computing and Engineering.",
+      "authors": [
+        {
+          "literal": "Christensen, D. V., et al"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2022
+        ]
+      },
+      "url": null,
+      "published_context": "Christensen, D. V., et al. “2022 Roadmap on Neuromorphic Computing and Engineering.” Neuromorphic Computing and Engineering 2(2), 022501, 2022.",
+      "reference_slots": [
+        "ref-029"
+      ]
+    },
+    {
+      "id": "work-f059-ref-030",
+      "citekey": "f059_ref_030",
+      "type": "article",
+      "title": "Assured Autonomy: How Operations Research Powers and Orchestrates Generative AI Systems.",
+      "authors": [
+        {
+          "literal": "Dai, T., Simchi-Levi, D., Wu, M. X., and Xie, Y"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2025
+        ]
+      },
+      "url": "https://arxiv.org/abs/2512.23978",
+      "published_context": "Dai, T., Simchi-Levi, D., Wu, M. X., and Xie, Y. “Assured Autonomy: How Operations Research Powers and Orchestrates Generative AI Systems.” arXiv:2512.23978, 2025.",
+      "reference_slots": [
+        "ref-030"
+      ]
+    },
+    {
+      "id": "work-f059-ref-031",
+      "citekey": "f059_ref_031",
+      "type": "article",
+      "title": "The Runtime Dimension of Ethics in Self-Adaptive Systems.",
+      "authors": [
+        {
+          "literal": "Autili, M., Filippone, G., Memon, M. A., and Pelliccione, P"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026
+        ]
+      },
+      "url": "https://arxiv.org/abs/2602.17426",
+      "published_context": "Autili, M., Filippone, G., Memon, M. A., and Pelliccione, P. “The Runtime Dimension of Ethics in Self-Adaptive Systems.” arXiv:2602.17426, 2026.",
+      "reference_slots": [
+        "ref-031"
+      ]
+    },
+    {
+      "id": "work-f059-ref-032",
+      "citekey": "f059_ref_032",
+      "type": "article",
+      "title": "Universal Intelligence: A Definition of Machine Intelligence.",
+      "authors": [
+        {
+          "literal": "Legg, S., and Hutter, M"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2007
+        ]
+      },
+      "url": null,
+      "published_context": "Legg, S., and Hutter, M. “Universal Intelligence: A Definition of Machine Intelligence.” Minds and Machines 17, 391–444, 2007.",
+      "reference_slots": [
+        "ref-032"
+      ]
+    },
+    {
+      "id": "work-f059-ref-033",
+      "citekey": "f059_ref_033",
+      "type": "article",
+      "title": "Computational Rationality: A Converging Paradigm for Intelligence in Brains, Minds, and Machines.",
+      "authors": [
+        {
+          "literal": "Gershman, S. J., Horvitz, E. J., and Tenenbaum, J. B"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2015
+        ]
+      },
+      "url": null,
+      "published_context": "Gershman, S. J., Horvitz, E. J., and Tenenbaum, J. B. “Computational Rationality: A Converging Paradigm for Intelligence in Brains, Minds, and Machines.” Science 349(6245), 273–278, 2015.",
+      "reference_slots": [
+        "ref-033"
+      ]
+    }
+  ],
+  "reference_work_links": [
+    {
+      "reference_slot_id": "ref-001",
+      "work_id": "work-f059-ref-001",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-002",
+      "work_id": "work-f059-ref-002",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-003",
+      "work_id": "work-f059-ref-003",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-004",
+      "work_id": "work-f059-ref-004",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-005",
+      "work_id": "work-f059-ref-005",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-006",
+      "work_id": "work-f059-ref-006",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-007",
+      "work_id": "work-f059-ref-007",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-008",
+      "work_id": "work-f059-ref-008",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-009",
+      "work_id": "work-f059-ref-009",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-010",
+      "work_id": "work-f059-ref-010",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-011",
+      "work_id": "work-f059-ref-011",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-012",
+      "work_id": "work-f059-ref-012",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-013",
+      "work_id": "work-f059-ref-013",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-014",
+      "work_id": "work-f059-ref-014",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-015",
+      "work_id": "work-f059-ref-015",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-016",
+      "work_id": "work-f059-ref-016",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-017",
+      "work_id": "work-f059-ref-017",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-018",
+      "work_id": "work-f059-ref-018",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-019",
+      "work_id": "work-f059-ref-019",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-020",
+      "work_id": "work-f059-ref-020",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-021",
+      "work_id": "work-f059-ref-021",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-022",
+      "work_id": "work-f059-ref-022",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-023",
+      "work_id": "work-f059-ref-023",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-024",
+      "work_id": "work-f059-ref-024",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-025",
+      "work_id": "work-f059-ref-025",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-026",
+      "work_id": "work-f059-ref-026",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-027",
+      "work_id": "work-f059-ref-027",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-028",
+      "work_id": "work-f059-ref-028",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-029",
+      "work_id": "work-f059-ref-029",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-030",
+      "work_id": "work-f059-ref-030",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-031",
+      "work_id": "work-f059-ref-031",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-032",
+      "work_id": "work-f059-ref-032",
+      "role": "published-reference",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-033",
+      "work_id": "work-f059-ref-033",
+      "role": "published-reference",
+      "order": 1
+    }
+  ]
+}

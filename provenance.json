@@ -1,0 +1,34 @@
+{
+  "derivative_purpose": "Discovery, comprehension, relevance matching, and DOI-linked citation of the released paper",
+  "canonical_publication": {
+    "doi": "10.5281/zenodo.22882247",
+    "url": "https://doi.org/10.5281/zenodo.22882247",
+    "zenodo_record": "https://zenodo.org/records/22882247",
+    "version": "v1"
+  },
+  "sources": {
+    "canonical_manuscript_export": {
+      "filename": "manuscript.docx",
+      "sha256": "6628692cce46e5bfbdf89735b4fbfddf25418161e3d9681d27295a611d64f86a"
+    },
+    "released_pdf": {
+      "filename": "intelligence-by-appointment.pdf",
+      "sha256": "fb340eba69d493b9539c506903b1b3a7a8ccc81080647a53aa5543112400b9f4",
+      "md5": "fcd4b18076cf73aa8cf8600bfb3e6c31"
+    },
+    "main_figure_archive": {
+      "sha256": "b73d533a3ad28ef12fa095dcdc25e8143e264677b4b9b664a6521cd2374f7c23"
+    },
+    "appendix_figure_archive": {
+      "sha256": "2f0ecf72f677938f873d6ff2e79e8dc810f61f713b4570ff017036576b4ffe23"
+    }
+  },
+  "transform": {
+    "script": "scripts/build_derivative.py",
+    "text_source": "final DOCX",
+    "figure_source": "verified main and appendix figure archives",
+    "table_representation": "four substantive semantic tables; two one-cell authorship and contribution boxes represented as notes",
+    "reference_representation": "33 lossless numbered reference strings with conservative reusable exports"
+  },
+  "authority": "The Zenodo record and DOI are canonical. Repository files are discovery derivatives."
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "title": "Intelligence by Appointment",
+  "subtitle": "A Research Program for Temporary, Governed, and Revocable Intelligence",
+  "author": [
+    {
+      "name": "Brad Pierce",
+      "orcid": "https://orcid.org/0009-0009-7427-2969"
+    }
+  ],
+  "doi": "10.5281/zenodo.22882247",
+  "doi_url": "https://doi.org/10.5281/zenodo.22882247",
+  "zenodo_record": "https://zenodo.org/records/22882247",
+  "publication_date": "2026-09-21",
+  "version": "1.0",
+  "resource_type": "Preprint",
+  "language": "en",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "keywords": [
+    "intelligence by appointment",
+    "intelligent systems",
+    "adaptive systems",
+    "embodied artificial intelligence",
+    "resource-aware artificial intelligence",
+    "runtime assurance",
+    "capability allocation",
+    "computing continuum",
+    "AI-hardware co-design",
+    "active perception",
+    "mixed-criticality systems",
+    "resource reservation",
+    "temporary authority",
+    "revocable computation",
+    "protected reserve",
+    "adaptive orchestration"
+  ],
+  "abstract": "Intelligent systems increasingly have more decision-relevant capabilities and resources than they can use everywhere at once. The hard engineering problem is to make the right capability present at the right place and moment while preserving coverage, meeting deadlines, respecting resource limits, and bounding what it may do. The deeper architectural claim is that intelligence is not a permanent property of a component. It is a temporary, revocable grant. This paper develops intelligence by appointment as a practical research program for that claim. An appointment says what may become present, what it may consume and affect, what must remain unavailable to it, and how the system gets everything back. Its eight-commitment reference kernel expresses those obligations as a typed, temporary grant. Request evidence explains why the grant was proposed; conformance evidence shows whether it was honored. The larger aim is an appointment control plane that can choose among unlike decision-relevant resources while preserving the capability and authority the system deliberately refuses to commit. We organize the program around five questions: where richer intelligence should live; what an appointment grants; how parallel coverage becomes governed commitment; when the machinery earns its complexity and how it fails; and what must be built and learned to form an engineering field. Embodied systems provide the primary proving ground, while device–edge–cloud services test transfer beyond robotics. The empirical question is whether explicit contracts improve capability, tail behavior, communication, recovery, or safety under matched constraints—and when uniform provision or simpler orchestration remains better.",
+  "repository": "https://github.com/bradpierce-ai-eda/intelligence-by-appointment",
+  "pages_url": "https://bradpierce-ai-eda.github.io/intelligence-by-appointment/",
+  "preferred_citation": "Pierce, Brad. Intelligence by Appointment: A Research Program for Temporary, Governed, and Revocable Intelligence. Zenodo, 2026. DOI: 10.5281/zenodo.22882247.",
+  "content_counts": {
+    "figures": 7,
+    "references": 33,
+    "reference_slots": 33,
+    "bibliographic_works": 33,
+    "reference_work_links": 33,
+    "tables": 4
+  }
+}

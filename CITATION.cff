@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "Canonical publication and citation metadata for this Zenodo preprint."
+title: "Intelligence by Appointment: A Research Program for Temporary, Governed, and Revocable Intelligence"
+type: dataset
+authors:
+  - family-names: Pierce
+    given-names: Brad
+    orcid: "https://orcid.org/0009-0009-7427-2969"
+version: "1.0"
+date-released: "2026-09-21"
+doi: "10.5281/zenodo.22882247"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22882247"
+keywords:
+  - intelligence by appointment
+  - embodied artificial intelligence
+  - runtime assurance
+  - capability allocation
+  - temporary authority
+  - revocable computation
+  - protected reserve
+url: "https://doi.org/10.5281/zenodo.22882247"
+repository-code: "https://github.com/bradpierce-ai-eda/intelligence-by-appointment"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Intelligence by Appointment: A Research Program for Temporary, Governed, and Revocable Intelligence"
+  authors:
+    - family-names: Pierce
+      given-names: Brad
+      orcid: "https://orcid.org/0009-0009-7427-2969"
+  year: 2026
+  month: 9
+  day: 21
+  doi: "10.5281/zenodo.22882247"
+  publisher:
+    name: Zenodo
