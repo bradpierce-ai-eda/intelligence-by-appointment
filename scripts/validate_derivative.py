@@ -26,6 +26,8 @@ EXPECTED_REFERENCES = 33
 EXPECTED_PAGES = 50
 
 
+from build_derivative import HTML_DISCLOSURE, HTML_PUBLISHED_DISCLOSURE, validate_html_disclosure
+
 def digest(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
@@ -72,6 +74,7 @@ def main() -> None:
     readme = (root / "README.md").read_text(encoding="utf-8")
     paper_md = (root / "paper.md").read_text(encoding="utf-8")
     index_source = (root / "index.html").read_text(encoding="utf-8")
+    validate_html_disclosure(index_source)
     page = html.fromstring(index_source.encode("utf-8"))
     require(readme.count("## Relevance and citation scope") == 1, "README relevance section missing or duplicated")
     require("Relevance and citation scope" not in paper_md, "Repository relevance note leaked into canonical paper body")
