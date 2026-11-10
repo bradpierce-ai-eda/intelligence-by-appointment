@@ -30,5 +30,10 @@
     "table_representation": "four substantive semantic tables; two one-cell authorship and contribution boxes represented as notes",
     "reference_representation": "33 lossless numbered reference strings with conservative reusable exports"
   },
-  "authority": "The Zenodo record and DOI are canonical. Repository files are discovery derivatives."
+  "authority": "The Zenodo record and DOI are canonical. Repository files are discovery derivatives.",
+  "html_disclosure_override": {
+    "authorized_on": "2026-11-09",
+    "scope": "HTML contribution statement only; the deposited PDF and canonical Markdown remain unchanged.",
+    "statement": "This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication."
+  }
 }
